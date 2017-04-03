@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60227547548",
+    "firebase_url": "https://april-3-d7030.firebaseio.com",
+    "project_id": "april-3-d7030",
+    "storage_bucket": "april-3-d7030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60227547548:android:17beb62180cce8f0",
+        "android_client_info": {
+          "package_name": "com.elysewarren.april3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60227547548-npfg84uh1tj6nus2002b6ilibnh391kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQPXW5Frh6fhSXMFmlZOQchOxpqYDE9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
